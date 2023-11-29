@@ -1,0 +1,10 @@
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+scipy
+tokenizers
+torch
+torchvision
+tqdm
